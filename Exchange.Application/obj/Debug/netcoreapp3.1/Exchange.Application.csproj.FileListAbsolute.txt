@@ -1,0 +1,12 @@
+C:\Users\665544\source\repos\Currency\Exchange.Application\obj\Debug\netcoreapp3.1\Exchange.Application.csprojAssemblyReference.cache
+C:\Users\665544\source\repos\Currency\Exchange.Application\obj\Debug\netcoreapp3.1\Exchange.Application.AssemblyInfoInputs.cache
+C:\Users\665544\source\repos\Currency\Exchange.Application\obj\Debug\netcoreapp3.1\Exchange.Application.AssemblyInfo.cs
+C:\Users\665544\source\repos\Currency\Exchange.Application\bin\Debug\netcoreapp3.1\Exchange.Application.deps.json
+C:\Users\665544\source\repos\Currency\Exchange.Application\bin\Debug\netcoreapp3.1\Exchange.Application.dll
+C:\Users\665544\source\repos\Currency\Exchange.Application\bin\Debug\netcoreapp3.1\Exchange.Application.pdb
+C:\Users\665544\source\repos\Currency\Exchange.Application\bin\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\665544\source\repos\Currency\Exchange.Application\bin\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\Users\665544\source\repos\Currency\Exchange.Application\obj\Debug\netcoreapp3.1\Exchange.Application.csproj.CopyComplete
+C:\Users\665544\source\repos\Currency\Exchange.Application\obj\Debug\netcoreapp3.1\Exchange.Application.dll
+C:\Users\665544\source\repos\Currency\Exchange.Application\obj\Debug\netcoreapp3.1\Exchange.Application.pdb
+C:\Users\665544\source\repos\Currency\Exchange.Application\obj\Debug\netcoreapp3.1\Exchange.Application.csproj.CoreCompileInputs.cache

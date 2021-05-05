@@ -1,0 +1,11 @@
+C:\Users\665544\source\repos\Currency\Exchange.Resource\bin\Debug\netcoreapp3.1\Exchange.Resource.deps.json
+C:\Users\665544\source\repos\Currency\Exchange.Resource\bin\Debug\netcoreapp3.1\Exchange.Resource.dll
+C:\Users\665544\source\repos\Currency\Exchange.Resource\bin\Debug\netcoreapp3.1\Exchange.Resource.pdb
+C:\Users\665544\source\repos\Currency\Exchange.Resource\obj\Debug\netcoreapp3.1\Exchange.Resource.csprojAssemblyReference.cache
+C:\Users\665544\source\repos\Currency\Exchange.Resource\obj\Debug\netcoreapp3.1\Exchange.Resource.ExchangeResource.resources
+C:\Users\665544\source\repos\Currency\Exchange.Resource\obj\Debug\netcoreapp3.1\Exchange.Resource.csproj.GenerateResource.cache
+C:\Users\665544\source\repos\Currency\Exchange.Resource\obj\Debug\netcoreapp3.1\Exchange.Resource.AssemblyInfoInputs.cache
+C:\Users\665544\source\repos\Currency\Exchange.Resource\obj\Debug\netcoreapp3.1\Exchange.Resource.AssemblyInfo.cs
+C:\Users\665544\source\repos\Currency\Exchange.Resource\obj\Debug\netcoreapp3.1\Exchange.Resource.csproj.CoreCompileInputs.cache
+C:\Users\665544\source\repos\Currency\Exchange.Resource\obj\Debug\netcoreapp3.1\Exchange.Resource.dll
+C:\Users\665544\source\repos\Currency\Exchange.Resource\obj\Debug\netcoreapp3.1\Exchange.Resource.pdb

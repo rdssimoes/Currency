@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IS17RcGHaWk/jZrmcIW/LZAsAXVsOKiZJDaoO8992k/6+hIxj/+RC1K8Z4DzoiJgkQEdEEIOzaIvXAPGxddVQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\665544\\source\\repos\\Currency\\Exchange.Application\\Exchange.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\665544\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
+    "C:\\Users\\665544\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "C:\\Users\\665544\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "C:\\Users\\665544\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\665544\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\665544\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

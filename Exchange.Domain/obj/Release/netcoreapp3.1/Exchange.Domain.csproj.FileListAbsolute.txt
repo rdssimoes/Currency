@@ -1,0 +1,9 @@
+C:\Users\665544\source\repos\Currency\Exchange.Domain\bin\Release\netcoreapp3.1\Exchange.Domain.deps.json
+C:\Users\665544\source\repos\Currency\Exchange.Domain\bin\Release\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\665544\source\repos\Currency\Exchange.Domain\bin\Release\netcoreapp3.1\Exchange.Domain.pdb
+C:\Users\665544\source\repos\Currency\Exchange.Domain\obj\Release\netcoreapp3.1\Exchange.Domain.csprojAssemblyReference.cache
+C:\Users\665544\source\repos\Currency\Exchange.Domain\obj\Release\netcoreapp3.1\Exchange.Domain.AssemblyInfoInputs.cache
+C:\Users\665544\source\repos\Currency\Exchange.Domain\obj\Release\netcoreapp3.1\Exchange.Domain.AssemblyInfo.cs
+C:\Users\665544\source\repos\Currency\Exchange.Domain\obj\Release\netcoreapp3.1\Exchange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\665544\source\repos\Currency\Exchange.Domain\obj\Release\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\665544\source\repos\Currency\Exchange.Domain\obj\Release\netcoreapp3.1\Exchange.Domain.pdb

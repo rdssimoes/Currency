@@ -1,0 +1,9 @@
+C:\Users\665544\source\repos\Currency\Exchange.Database\bin\Debug\Exchange.Database.dacpac
+C:\Users\665544\source\repos\Currency\Exchange.Database\bin\Debug\Exchange.Database.dll
+C:\Users\665544\source\repos\Currency\Exchange.Database\bin\Debug\Exchange.Database.pdb
+C:\Users\665544\source\repos\Currency\Exchange.Database\obj\Debug\Exchange.Database.dll
+C:\Users\665544\source\repos\Currency\Exchange.Database\obj\Debug\Exchange.Database.pdb
+C:\Users\665544\source\repos\Currency\Exchange.Database\obj\Debug\Model.xml
+C:\Users\665544\source\repos\Currency\Exchange.Database\obj\Debug\refactor.xml
+C:\Users\665544\source\repos\Currency\Exchange.Database\obj\Debug\postdeploy.sql
+C:\Users\665544\source\repos\Currency\Exchange.Database\obj\Debug\predeploy.sql
