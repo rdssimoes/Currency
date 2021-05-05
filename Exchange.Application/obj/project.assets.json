@@ -275,11 +275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\665544\\source\\repos\\Currency\\Exchange.Application\\Exchange.Application.csproj",
+      "projectUniqueName": "C:\\Users\\665544\\source\\repos\\Currency\\Currency\\Exchange.Application\\Exchange.Application.csproj",
       "projectName": "Exchange.Application",
-      "projectPath": "C:\\Users\\665544\\source\\repos\\Currency\\Exchange.Application\\Exchange.Application.csproj",
+      "projectPath": "C:\\Users\\665544\\source\\repos\\Currency\\Currency\\Exchange.Application\\Exchange.Application.csproj",
       "packagesPath": "C:\\Users\\665544\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\665544\\source\\repos\\Currency\\Exchange.Application\\obj\\",
+      "outputPath": "C:\\Users\\665544\\source\\repos\\Currency\\Currency\\Exchange.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -301,8 +301,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\665544\\source\\repos\\Currency\\Exchange.Domain\\Exchange.Domain.csproj": {
-              "projectPath": "C:\\Users\\665544\\source\\repos\\Currency\\Exchange.Domain\\Exchange.Domain.csproj"
+            "C:\\Users\\665544\\source\\repos\\Currency\\Currency\\Exchange.Domain\\Exchange.Domain.csproj": {
+              "projectPath": "C:\\Users\\665544\\source\\repos\\Currency\\Currency\\Exchange.Domain\\Exchange.Domain.csproj"
             }
           }
         }

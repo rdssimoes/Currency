@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IS17RcGHaWk/jZrmcIW/LZAsAXVsOKiZJDaoO8992k/6+hIxj/+RC1K8Z4DzoiJgkQEdEEIOzaIvXAPGxddVQQ==",
+  "dgSpecHash": "bKhflfu9O8EIq6HYsjbBjcIRJXCn9yeGfoYyOfrFouhGy1xZJdH6YoFLfn2hQOLYNrxgEqls7Ajr6AO6K1TTjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\665544\\source\\repos\\Currency\\Exchange.Application\\Exchange.Application.csproj",
+  "projectFilePath": "C:\\Users\\665544\\source\\repos\\Currency\\Currency\\Exchange.Application\\Exchange.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\665544\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\665544\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",

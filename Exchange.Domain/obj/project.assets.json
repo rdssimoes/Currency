@@ -46,11 +46,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\665544\\source\\repos\\Currency\\Exchange.Domain\\Exchange.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\665544\\source\\repos\\Currency\\Currency\\Exchange.Domain\\Exchange.Domain.csproj",
       "projectName": "Exchange.Domain",
-      "projectPath": "C:\\Users\\665544\\source\\repos\\Currency\\Exchange.Domain\\Exchange.Domain.csproj",
+      "projectPath": "C:\\Users\\665544\\source\\repos\\Currency\\Currency\\Exchange.Domain\\Exchange.Domain.csproj",
       "packagesPath": "C:\\Users\\665544\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\665544\\source\\repos\\Currency\\Exchange.Domain\\obj\\",
+      "outputPath": "C:\\Users\\665544\\source\\repos\\Currency\\Currency\\Exchange.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
